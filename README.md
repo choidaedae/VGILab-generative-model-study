@@ -1,8 +1,7 @@
 # generative-model-study
-Generative Model Study (Paper Review, some simple Implementations) 
-In Visual & Geometric Intelligence Lab, SNU [(Link @ VGI Lab)](jaesik.info)
+[2024W] Generative Model Study in Visual & Geometric Intelligence Lab, SNU [(Link @ VGI Lab)](jaesik.info)
 
-## Commitees
+## Participants
 - Daehyeon Choi (daehyeonchoi@postech.ac.kr)
 
 ## Paper
@@ -27,7 +26,7 @@ In Visual & Geometric Intelligence Lab, SNU [(Link @ VGI Lab)](jaesik.info)
 5. Score-Based Generative Modeling through Stochastic Differential Equations
 6. Consistency Models
 
-### Text-to-image 
+### Other Topics
 - TBD ...
 
 ## Codes
