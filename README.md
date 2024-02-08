@@ -3,6 +3,7 @@
 
 ## Participants
 - Daehyeon Choi (daehyeonchoi@postech.ac.kr)
+- KyungRae Kang (rudfo0203@postech.ac.kr)
 
 ## Paper
 - Paper Reviews will be uploaded in docs/, Based on Notion webpage.
