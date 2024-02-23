@@ -4,15 +4,20 @@
 ## Participants
 - Daehyeon Choi (daehyeonchoi@postech.ac.kr)
 - KyungRae Kang (rudfo0203@postech.ac.kr)
+- Beomjune Kim (bj_kim@seoultech.ac.kr)
 
 ## Paper
 - Paper Reviews will be uploaded in docs/, Based on Notion webpage.
   
 ### Deep Learning Basics 
-1. Deep Residual Learning for Image Recognition
+#### 1. Deep Residual Learning for Image Recognition
+[Deep Residual Learning for Image Recognition - Material](https://charming-sundial-50a.notion.site/Deep-Residual-Learning-for-Image-Recognition-f2de75a7ab314865bb0b2360e4a9750e)
 
 ### GAN 
-1. Generative Adversarial Networks
+#### 1. Generative Adversarial Networks 
+[Generative Adversarial Networks - Material](https://charming-sundial-50a.notion.site/Generative-Adversarial-Networks-53764cdd4d4c4a19aadbd0ea4231bfc6)
+
+
 2. Unsupervised Representation Learning with Deep Convolutional Generative Adersarial Networks
 3. Wasserstein GAN
 4. Progressive Growing of GANs for Improved Quality, Stability, and Variation
