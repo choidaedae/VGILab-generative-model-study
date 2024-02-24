@@ -19,18 +19,20 @@
 
 
 2. Unsupervised Representation Learning with Deep Convolutional Generative Adersarial Networks
-3. Wasserstein GAN
-4. Progressive Growing of GANs for Improved Quality, Stability, and Variation
+3. Progressive Growing of GANs for Improved Quality, Stability, and Variation
+4. Large Scale GAN Training for High Fidelity Natural Image Synthesis
 5. A Style-Based Generator Architecture for Generative Adversarial Networks
 6. Analyzing and Improving the Image Quality of StyleGAN
 
 ### Diffusion Model 
 1. Denoising Diffusion Probabilistic Models
 2. High-Resolution Image Synthesis with Latent Diffusion Models
-3. Denoising Diffusion Implicit Models
-4. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
-5. Score-Based Generative Modeling through Stochastic Differential Equations
-6. Consistency Models
+3. Diffusion Models Beat GANs on Image Synthesis
+4. Classifier-Free Diffusion Guidance
+5. Denoising Diffusion Implicit Models
+6. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
+7. Score-Based Generative Modeling through Stochastic Differential Equations
+8. Consistency Models
 
 ### Other Topics
 - TBD ...
