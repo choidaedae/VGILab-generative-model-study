@@ -1,8 +1,8 @@
 # generative-model-study
-[2024W] Generative Model Study in Visual & Geometric Intelligence Lab, SNU [(Link @ VGI Lab)](https://jaesik.info)
+[2024S] Generative Model Study in Visual & Geometric Intelligence Lab, SNU (Advisor: Jaesik Park) [(Link @ VGI Lab)](https://jaesik.info)
 
 ## Participants
-- Daehyeon Choi (daehyeonchoi@postech.ac.kr)
+- Daehyeon Choi (Lead) (daehyeonchoi@postech.ac.kr)
 - KyungRae Kang (rudfo0203@postech.ac.kr)
 - Beomjune Kim (bj_kim@seoultech.ac.kr)
 
