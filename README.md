@@ -1,4 +1,4 @@
-# generative-model-study
+# VGILab-generative-model-study
 [2024S] Generative Model Study in Visual & Geometric Intelligence Lab, SNU (Advisor: Jaesik Park) [(Link @ VGI Lab)](https://jaesik.info)
 
 ## Participants
