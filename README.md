@@ -12,22 +12,26 @@
 ### Deep Learning Basics 
 #### 1. Deep Residual Learning for Image Recognition
 [Deep Residual Learning for Image Recognition - Paper](https://arxiv.org/abs/1512.03385)
+
 [Deep Residual Learning for Image Recognition - Material](https://charming-sundial-50a.notion.site/Deep-Residual-Learning-for-Image-Recognition-f2de75a7ab314865bb0b2360e4a9750e)
 
 ### GAN 
 #### 1. Generative Adversarial Networks 
 [Generative Adversarial Networks - Paper](https://arxiv.org/abs/1406.2661)
+
 [Generative Adversarial Networks - Material](https://charming-sundial-50a.notion.site/Generative-Adversarial-Networks-53764cdd4d4c4a19aadbd0ea4231bfc6)
 
 
 
 #### 2. Unsupervised Representation Learning with Deep Convolutional Generative Adersarial Networks
 [Unsupervised Representation Learning with Deep Convolutional Generative Adersarial Networks - Paper](https://arxiv.org/abs/1511.06434)
+
 [Unsupervised Representation Learning with Deep Convolutional Generative Adersarial Networks - Material](https://charming-sundial-50a.notion.site/Unsupervised-Representation-Learning-with-Deep-Convolutional-Generative-Adersarial-Networks-352d68771aff4158b58e28d21d90112a)
 
 
 #### 3. Progressive Growing of GANs for Improved Quality, Stability, and Variation
 [Progressive Growing of GANs for Improved Quality, Stability, and Variation - Paper](https://arxiv.org/abs/1805.08318)
+
 [Progressive Growing of GANs for Improved Quality, Stability, and Variation - Material](https://charming-sundial-50a.notion.site/Progressive-Growing-of-GANs-for-Improved-Quality-Stability-and-Variation-74bcb45849ec464d9271b3df5464af11)
 
 4. Self-Attention Generative Adversarial Networks
