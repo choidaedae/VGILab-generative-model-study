@@ -25,7 +25,7 @@
 #### 4. Self-Attention Generative Adversarial Networks - [[Paper]](https://arxiv.org/abs/1805.08318) [[Material]](https://charming-sundial-50a.notion.site/Self-Attention-Generative-Adversarial-Networks-7e9285c90c074f1280a3a65cd5b2f2ac?pvs=4)
 #### 5. Large Scale GAN Training for High Fidelity Natural Image Synthesis - [[Paper]](https://arxiv.org/abs/1809.11096) [[Material]](https://davidkim2028.notion.site/BigGAN-5b01b7dc96224bf8b042f9f1cad7a38a)
 #### 6. A Style-Based Generator Architecture for Generative Adversarial Networks - [[Paper]](https://arxiv.org/abs/1812.04948) [[Material]](https://charming-sundial-50a.notion.site/A-Style-Based-Generator-Architecture-for-Generative-Adversarial-Networks-1ef4fbc3e3154ab1804dc847ba7cdd36)
-7. Analyzing and Improving the Image Quality of StyleGAN
+#### 7. Analyzing and Improving the Image Quality of StyleGAN - [[Paper]]() [[Material]](https://davidkim2028.notion.site/StyleGAN2-d5116a6a54ea493e9d12d9d76b93f058) 
 
 ### Diffusion Model 
 1. Denoising Diffusion Probabilistic Models
