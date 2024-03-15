@@ -1,4 +1,4 @@
-![image](https://github.com/choidaedae/VGILab-generative-model-study/assets/105369646/b7d17bba-7a57-4bf1-bc07-78ce83183b22)# VGILab-generative-model-study
+# VGILab-generative-model-study
 [2024S] Generative Model Study in Visual & Geometric Intelligence Lab, SNU (Advisor: Jaesik Park) [(Link @ VGI Lab)](https://jaesik.info)
 
 ## Participants
