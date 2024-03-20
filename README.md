@@ -32,9 +32,9 @@
 ### Diffusion Model 
 1. Denoising Diffusion Probabilistic Models
 2. High-Resolution Image Synthesis with Latent Diffusion Models
-3. Diffusion Models Beat GANs on Image Synthesis
-4. Classifier-Free Diffusion Guidance
-5. Denoising Diffusion Implicit Models
+3. Denoising Diffusion Implicit Models
+4. Diffusion Models Beat GANs on Image Synthesis
+5. Classifier-Free Diffusion Guidance
 6. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
 7. Score-Based Generative Modeling through Stochastic Differential Equations
 8. Consistency Models
