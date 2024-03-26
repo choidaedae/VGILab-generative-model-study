@@ -32,8 +32,8 @@
 ### Diffusion Model 
 #### 1. Denoising Diffusion Probabilistic Models - [[Paper]](https://arxiv.org/abs/2006.11239) [[Material]](https://charming-sundial-50a.notion.site/Denoising-Diffusion-Probabilistic-Models-7be630aac92844a08d8c21d3b25d7528)
 #### 2. High-Resolution Image Synthesis with Latent Diffusion Models - [[Paper]](https://arxiv.org/abs/2112.10752) [[Material]](https://davidkim2028.notion.site/LDM-324db84647a14e3a9510ce0e0bed9f2c)
-3. Denoising Diffusion Implicit Models
-4. Diffusion M_odels Beat GANs on Image Synthesis
+#### 3. Denoising Diffusion Implicit Models - [[Paper]](https://arxiv.org/abs/2010.02502) [[Material]](https://charming-sundial-50a.notion.site/Denoising-Diffusion-Implicit-Models-4681d7945e9f4c69b3019d949b2967c2)
+#### 4. Diffusion Models Beat GANs on Image Synthesis - [[Paper]](https://arxiv.org/abs/2105.05233) [[Material]](https://charming-sundial-50a.notion.site/Diffusion-Models-Beat-GANs-on-Image-Synthesis-360126d112754681870fe13db1e6a914)
 5. Classifier-Free Diffusion Guidance
 6. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
 7. Score-Based Generative Modeling through Stochastic Differential Equations
