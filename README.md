@@ -30,6 +30,9 @@
 #### 7. Analyzing and Improving the Image Quality of StyleGAN - [[Paper]](https://arxiv.org/abs/1912.04958) [[Material]](https://davidkim2028.notion.site/StyleGAN2-d5116a6a54ea493e9d12d9d76b93f058) 
 
 ### Diffusion Model 
+
+<img width="753" alt="image" src="https://github.com/choidaedae/VGILab-generative-model-study/assets/105369646/5241f588-da84-4eff-930e-1e713edd7f6d">
+
 #### 1. Denoising Diffusion Probabilistic Models - [[Paper]](https://arxiv.org/abs/2006.11239) [[Material]](https://charming-sundial-50a.notion.site/Denoising-Diffusion-Probabilistic-Models-7be630aac92844a08d8c21d3b25d7528)
 #### 2. High-Resolution Image Synthesis with Latent Diffusion Models - [[Paper]](https://arxiv.org/abs/2112.10752) [[Material]](https://davidkim2028.notion.site/LDM-324db84647a14e3a9510ce0e0bed9f2c)
 #### 3. Denoising Diffusion Implicit Models - [[Paper]](https://arxiv.org/abs/2010.02502) [[Material]](https://charming-sundial-50a.notion.site/Denoising-Diffusion-Implicit-Models-4681d7945e9f4c69b3019d949b2967c2)
