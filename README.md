@@ -48,8 +48,8 @@
 
 #### 6. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (ICLR 2022 Spotlight) - [[Paper]](https://arxiv.org/abs/2112.07804) [[Material]](https://davidkim2028.notion.site/DDGAN-b528ebd1f94e43c780a0c5bc56b5ec48)
 
-7. Score-Based Generative Modeling through Stochastic Differential Equations
-8. Consistency Models
+#### 7. Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021 Oral) - [[Paper]](https://arxiv.org/abs/2011.13456) [[Material]](https://davidkim2028.notion.site/DDGAN-b528ebd1f94e43c780a0c5bc56b5ec48?pvs=4)
+#### 8. Consistency Models (ICML 2023) - [[Paper]](https://arxiv.org/pdf/2303.01469.pdf) [[Material]](https://charming-sundial-50a.notion.site/Consistency-Models-03d48bfe662a40e397fbc75844e99d38?pvs=4)
 
 ### Other Topics
 - TBD ...
